@@ -95,4 +95,4 @@ python eval.py checkpoint=/path/to/ckpt submit=true
 ## ❤️ Acknowledgements
  - [Forecast-MAE](https://github.com/jchengai/forecast-mae)
  - [StreamPETR](https://github.com/exiawsh/StreamPETR)
- - [DeMo (Ours)](https://github.com/fudan-zvg/DeMo)
+ - [DeMo (Ours)](https://github.com/LogosIntelligenceLab/DeMo)
